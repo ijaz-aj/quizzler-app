@@ -9,4 +9,4 @@ Features
 
 ✌️Score Tracking: Keeps track of the user's score throughout the quiz.
 
-✌️Category Selection: Allows users to choose quiz categories based on their preferences.
+
